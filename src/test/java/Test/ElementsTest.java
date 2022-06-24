@@ -48,7 +48,6 @@ public class ElementsTest extends BasePage {
 
 
 
-
     }
     @Test
     public void verifyTextBoxIsOpened()  {
